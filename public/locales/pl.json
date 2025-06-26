@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Aktualny język:",
+        "description": "Obsługuje szybkie przełączanie między 23 językami, w tym chińskim, angielskim, japońskim, koreańskim itp.",
+        "title": "Komponent przełączania języka"
+      },
+      "theme": {
+        "current": "Aktualny temat:",
+        "description": "Obsługuje jasne, ciemne i automatyczne tryby motywu oraz automatycznie dostosowuje się do ustawień systemowych.",
+        "title": "Przełącznik motywów"
+      },
+      "title": "Demonstracja komponentów"
+    },
+    "description": "Zbudowany na Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internacjonalizacja",
+    "features": {
+      "heroui": {
+        "description": "Nowoczesna biblioteka komponentów interfejsu użytkownika oparta na HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Wsparcie internacjonalizacji od razu po wyjęciu z pudełka",
+        "title": "Umiędzynarodowienie"
+      },
+      "latest": "Najnowsza wersja",
+      "nextjs": {
+        "description": "Zbudowany na Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internacjonalizacja",
+        "title": "Następny.js"
+      },
+      "tailwind": {
+        "description": "Nowoczesna biblioteka komponentów interfejsu użytkownika oparta na Tailwind CSS 4",
+        "title": "CSS Tailwind"
+      },
+      "theme": {
+        "description": "Obsługuje jasne, ciemne i automatyczne tryby motywu oraz automatycznie dostosowuje się do ustawień systemowych.",
+        "title": "temat"
+      },
+      "typescript": {
+        "description": "Obsługuje sprawdzanie typów i automatyczne uzupełnianie języka TypeScript",
+        "title": "Maszynopis"
+      }
+    },
+    "footer": {
+      "description": "Zbudowany na Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internacjonalizacja"
+    },
+    "gettingStarted": {
+      "description": "Ten szablon zawiera wszystkie niezbędne zależności i skonfigurowane ustawienia, dzięki czemu możesz od razu rozpocząć programowanie.",
+      "features": {
+        "internationalization": "Wsparcie internacjonalizacji od razu po wyjęciu z pudełka",
+        "modern": "Nowoczesne komponenty interfejsu użytkownika",
+        "responsive": "Responsywny projekt",
+        "theme": "Obsługa trybu ciemnego",
+        "typescript": "Obsługa TypeScript"
+      },
+      "title": "Rozpocznij"
+    },
+    "title": "Szablon Heroui Next.js"
+  },
+  "themeMode": {
+    "changeToDark": "Przełącz na tryb ciemny",
+    "changeToLight": "Przełącz na tryb jasny",
+    "changeToSystem": "Przełącz na tryb automatyczny",
+    "dark": "Ciemny",
+    "light": "Światło",
+    "system": "automatyczny"
+  }
+}

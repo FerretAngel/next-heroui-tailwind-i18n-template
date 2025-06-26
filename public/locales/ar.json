@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "title": "قالب Heroui Next.js",
+    "description": "بناءً على Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + التدويل",
+    "features": {
+      "nextjs": {
+        "title": "Next.js\n\nنيكست.جس",
+        "description": "بناءً على Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + بناء دولي"
+      },
+      "tailwind": {
+        "title": "تايلويند سي إس إس",
+        "description": "مكتبة مكونات واجهة المستخدم الحديثة بناءً على Tailwind CSS 4"
+      },
+      "heroui": {
+        "title": "واجهة البطل",
+        "description": "مكتبة مكونات واجهة المستخدم الحديثة بناءً على HeroUI 2.8"
+      },
+      "internationalization": {
+        "title": "العولمة",
+        "description": "الدعم الدولي الذي يمكن استخدامه على الفور"
+      },
+      "typescript": {
+        "title": "نوع السكربت",
+        "description": "دعم فحص الأنواع وإكمال التلقائي لـ TypeScript"
+      },
+      "latest": "أحدث إصدار",
+      "theme": {
+        "title": "الموضوع",
+        "description": "دعم وضع الألوان الفاتحة والداكنة والتلقائي، يتبع إعدادات النظام تلقائيًا."
+      }
+    },
+    "components": {
+      "title": "عرض المكونات",
+      "language": {
+        "title": "مكون تبديل اللغة",
+        "description": "دعم تبديل سريع لـ 23 لغة، بما في ذلك الصينية والإنجليزية واليابانية والكورية.",
+        "current": "اللغة الحالية:"
+      },
+      "theme": {
+        "title": "مكون تبديل الموضوع",
+        "description": "دعم وضع الألوان الفاتحة والداكنة والتلقائي، يتبع إعدادات النظام تلقائيًا.",
+        "current": "الموضوع الحالي:"
+      }
+    },
+    "gettingStarted": {
+      "title": "ابدأ الاستخدام",
+      "description": "تم تكوين هذا القالب بالفعل لديك جميع التبعيات والإعدادات الضرورية، يمكنك البدء في التطوير على الفور.",
+      "features": {
+        "internationalization": "الدعم الدولي الذي يمكن استخدامه على الفور",
+        "theme": "دعم الوضع الداكن",
+        "responsive": "التصميم الاستجابي",
+        "typescript": "يدعم TypeScript",
+        "modern": "مكونات واجهة المستخدم الحديثة"
+      }
+    },
+    "footer": {
+      "description": "بناءً على Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + بناء دولي"
+    }
+  },
+  "themeMode": {
+    "changeToDark": "التبديل إلى الوضع الداكن",
+    "changeToLight": "التبديل إلى الوضع الفاتح",
+    "changeToSystem": "التبديل إلى وضع السيارة التلقائي",
+    "dark": "اللون الداكن",
+    "light": "لون فاتح",
+    "system": "تلقائي"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Bahasa Semasa:",
+        "description": "Menyokong penukaran pantas 23 bahasa, termasuk Cina, Inggeris, Jepun, Korea, dll.",
+        "title": "Komponen penukaran bahasa"
+      },
+      "theme": {
+        "current": "Topik semasa:",
+        "description": "Menyokong mod tema terang, gelap dan automatik, dan mengikut tetapan sistem secara automatik.",
+        "title": "Penukar Tema"
+      },
+      "title": "Demonstrasi Komponen"
+    },
+    "description": "Dibina pada Next.js 15 Tailwind CSS 4 HeroUI 2.8 Pengantarabangsaan",
+    "features": {
+      "heroui": {
+        "description": "Pustaka komponen UI moden berdasarkan HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Sokongan pengantarabangsaan di luar kotak",
+        "title": "Pengantarabangsaan"
+      },
+      "latest": "Versi terkini",
+      "nextjs": {
+        "description": "Dibina pada Next.js 15 Tailwind CSS 4 HeroUI 2.8 Pengantarabangsaan",
+        "title": "Seterusnya.js"
+      },
+      "tailwind": {
+        "description": "Pustaka komponen UI moden berdasarkan Tailwind CSS 4",
+        "title": "CSS Tailwind"
+      },
+      "theme": {
+        "description": "Menyokong mod tema terang, gelap dan automatik, dan mengikut tetapan sistem secara automatik.",
+        "title": "tema"
+      },
+      "typescript": {
+        "description": "Menyokong pemeriksaan jenis TypeScript dan autolengkap",
+        "title": "TypeScript"
+      }
+    },
+    "footer": {
+      "description": "Dibina pada Next.js 15 Tailwind CSS 4 HeroUI 2.8 Pengantarabangsaan"
+    },
+    "gettingStarted": {
+      "description": "Templat ini mempunyai semua kebergantungan dan tetapan yang diperlukan dikonfigurasikan untuk anda supaya anda boleh mula membangunkan dengan segera.",
+      "features": {
+        "internationalization": "Sokongan pengantarabangsaan di luar kotak",
+        "modern": "Komponen UI moden",
+        "responsive": "Reka bentuk responsif",
+        "theme": "Sokongan mod gelap",
+        "typescript": "Sokongan TypeScript"
+      },
+      "title": "Mulakan"
+    },
+    "title": "Templat Heroui Next.js"
+  },
+  "themeMode": {
+    "changeToDark": "Tukar kepada Mod Gelap",
+    "changeToLight": "Tukar kepada mod cahaya",
+    "changeToSystem": "Tukar kepada mod automatik",
+    "dark": "Gelap",
+    "light": "Cahaya",
+    "system": "automatik"
+  }
+}

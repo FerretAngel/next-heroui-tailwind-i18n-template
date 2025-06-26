@@ -1,0 +1,68 @@
+{
+  "themeMode": {
+    "light": "浅色",
+    "dark": "深色",
+    "system": "自动",
+    "changeToLight": "切换到浅色模式",
+    "changeToDark": "切换到深色模式",
+    "changeToSystem": "切换到自动模式"
+  },
+  "guide": {
+    "title": "Heroui Next.js 模板",
+    "description": "基于 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 国际化构建",
+    "features": {
+      "nextjs": {
+        "title": "Next.js",
+        "description": "基于 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 国际化构建"
+      },
+      "tailwind": {
+        "title": "Tailwind CSS",
+        "description": "基于 Tailwind CSS 4 的现代化 UI 组件库"
+      },
+      "heroui": {
+        "title": "HeroUI",
+        "description": "基于 HeroUI 2.8 的现代化 UI 组件库"
+      },
+      "internationalization": {
+        "title": "国际化",
+        "description": "开箱即用的国际化支持"
+      },
+      "theme": {
+        "title": "主题",
+        "description": "支持浅色、深色和自动主题模式，自动跟随系统设置。"
+      },
+      "typescript": {
+        "title": "TypeScript",
+        "description": "支持 TypeScript 的类型检查和自动补全"
+      },
+      "latest": "最新版本"
+    },
+    "components": {
+      "title": "组件演示",
+      "language": {
+        "title": "语言切换组件",
+        "description": "支持 23 种语言的快速切换，包括中文、英文、日文、韩文等。",
+        "current": "当前语言："
+      },
+      "theme": {
+        "title": "主题切换组件",
+        "description": "支持浅色、深色和自动主题模式，自动跟随系统设置。",
+        "current": "当前主题："
+      }
+    },
+    "gettingStarted": {
+      "title": "开始使用",
+      "description": "这个模板已经为您配置好了所有必要的依赖和设置，您可以立即开始开发。",
+      "features": {
+        "internationalization": "开箱即用的国际化支持",
+        "theme": "深色模式支持",
+        "responsive": "响应式设计",
+        "typescript": "TypeScript 支持",
+        "modern": "现代化 UI 组件"
+      }
+    },
+    "footer": {
+      "description": "基于 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 国际化构建"
+    }
+  }
+}

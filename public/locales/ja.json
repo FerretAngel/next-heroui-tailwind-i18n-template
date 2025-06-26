@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "現在の言語:",
+        "description": "中国語、英語、日本語、韓国語など23言語のクイック切り替えをサポートします。",
+        "title": "言語切り替えコンポーネント"
+      },
+      "theme": {
+        "current": "現在のトピック:",
+        "description": "明るいテーマ、暗いテーマ、自動テーマ モードをサポートし、システム設定に自動的に従います。",
+        "title": "テーマスイッチャー"
+      },
+      "title": "コンポーネントのデモンストレーション"
+    },
+    "description": "Next.js 15、Tailwind CSS 4、HeroUI 2.8、国際化に基づいて構築",
+    "features": {
+      "heroui": {
+        "description": "HeroUI 2.8 をベースにした最新の UI コンポーネント ライブラリ",
+        "title": "ヒーローUI"
+      },
+      "internationalization": {
+        "description": "すぐに使える国際化サポート",
+        "title": "国際化"
+      },
+      "latest": "最新バージョン",
+      "nextjs": {
+        "description": "Next.js 15、Tailwind CSS 4、HeroUI 2.8、国際化に基づいて構築",
+        "title": "ネクスト.js"
+      },
+      "tailwind": {
+        "description": "Tailwind CSS 4 をベースにしたモダンな UI コンポーネント ライブラリ",
+        "title": "テイルウィンドCSS"
+      },
+      "theme": {
+        "description": "明るいテーマ、暗いテーマ、自動テーマ モードをサポートし、システム設定に自動的に従います。",
+        "title": "テーマ"
+      },
+      "typescript": {
+        "description": "TypeScriptの型チェックと自動補完をサポート",
+        "title": "タイプスクリプト"
+      }
+    },
+    "footer": {
+      "description": "Next.js 15、Tailwind CSS 4、HeroUI 2.8、国際化に基づいて構築"
+    },
+    "gettingStarted": {
+      "description": "このテンプレートには必要な依存関係と設定がすべて構成されているため、すぐに開発を開始できます。",
+      "features": {
+        "internationalization": "すぐに使える国際化サポート",
+        "modern": "モダンなUIコンポーネント",
+        "responsive": "レスポンシブデザイン",
+        "theme": "ダークモードのサポート",
+        "typescript": "TypeScriptサポート"
+      },
+      "title": "始める"
+    },
+    "title": "Heroui Next.js テンプレート"
+  },
+  "themeMode": {
+    "changeToDark": "ダークモードに切り替える",
+    "changeToLight": "ライトモードに切り替える",
+    "changeToSystem": "自動モードに切り替える",
+    "dark": "暗い",
+    "light": "ライト",
+    "system": "自動"
+  }
+}

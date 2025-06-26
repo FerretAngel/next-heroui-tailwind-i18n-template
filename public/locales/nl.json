@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Huidige taal:",
+        "description": "Ondersteunt snel schakelen tussen 23 talen, waaronder Chinees, Engels, Japans, Koreaans, etc.",
+        "title": "Taalschakelcomponent"
+      },
+      "theme": {
+        "current": "Huidig onderwerp:",
+        "description": "Ondersteunt lichte, donkere en automatische themamodi en volgt automatisch de systeeminstellingen.",
+        "title": "Thema-switcher"
+      },
+      "title": "Componentdemonstratie"
+    },
+    "description": "Gebouwd op Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisatie",
+    "features": {
+      "heroui": {
+        "description": "Een moderne UI-componentenbibliotheek gebaseerd op HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Out-of-the-box internationaliseringsondersteuning",
+        "title": "Internationalisering"
+      },
+      "latest": "Laatste versie",
+      "nextjs": {
+        "description": "Gebouwd op Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisatie",
+        "title": "Volgende.js"
+      },
+      "tailwind": {
+        "description": "Een moderne UI-componentenbibliotheek gebaseerd op Tailwind CSS 4",
+        "title": "Tailwind CSS"
+      },
+      "theme": {
+        "description": "Ondersteunt lichte, donkere en automatische themamodi en volgt automatisch de systeeminstellingen.",
+        "title": "thema"
+      },
+      "typescript": {
+        "description": "Ondersteunt TypeScript-typecontrole en automatisch aanvullen",
+        "title": "TypeScript"
+      }
+    },
+    "footer": {
+      "description": "Gebouwd op Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisatie"
+    },
+    "gettingStarted": {
+      "description": "In deze sjabloon zijn alle benodigde afhankelijkheden en instellingen al voor u geconfigureerd, zodat u direct aan de slag kunt met ontwikkelen.",
+      "features": {
+        "internationalization": "Out-of-the-box internationaliseringsondersteuning",
+        "modern": "Moderne UI-componenten",
+        "responsive": "Responsief ontwerp",
+        "theme": "Ondersteuning voor donkere modus",
+        "typescript": "TypeScript-ondersteuning"
+      },
+      "title": "Aan de slag"
+    },
+    "title": "Heroui Next.js-sjabloon"
+  },
+  "themeMode": {
+    "changeToDark": "Overschakelen naar donkere modus",
+    "changeToLight": "Overschakelen naar de lichtmodus",
+    "changeToSystem": "Overschakelen naar automatische modus",
+    "dark": "Donker",
+    "light": "Licht",
+    "system": "automatisch"
+  }
+}

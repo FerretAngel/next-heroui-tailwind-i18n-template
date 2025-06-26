@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Current language:",
+        "description": "Support quick switching between 23 languages, including Chinese, English, Japanese, Korean, etc.",
+        "title": "Language switch component"
+      },
+      "theme": {
+        "current": "Current topic:",
+        "description": "Support light, dark, and automatic theme modes that automatically follow system settings.",
+        "title": "Theme switch component"
+      },
+      "title": "Component demonstration"
+    },
+    "description": "Built on Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + internationalization.",
+    "features": {
+      "heroui": {
+        "description": "Modern UI component library based on HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Internationalization support out of the box",
+        "title": "Internationalization"
+      },
+      "latest": "Latest version",
+      "nextjs": {
+        "description": "Built on Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + internationalization.",
+        "title": "Next.js"
+      },
+      "tailwind": {
+        "description": "Modern UI component library based on Tailwind CSS 2",
+        "title": "Tailwind CSS"
+      },
+      "theme": {
+        "description": "Support light, dark, and automatic theme modes that automatically follow system settings.",
+        "title": "Theme"
+      },
+      "typescript": {
+        "description": "Support TypeScript type checking and auto-completion.",
+        "title": "TypeScript"
+      }
+    },
+    "footer": {
+      "description": "Built on Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + internationalization."
+    },
+    "gettingStarted": {
+      "description": "This template has been configured with all the necessary dependencies and settings for you, so you can start development right away.",
+      "features": {
+        "internationalization": "Internationalization support out of the box",
+        "modern": "Modern UI components",
+        "responsive": "Responsive design",
+        "theme": "Dark mode support",
+        "typescript": "TypeScript support"
+      },
+      "title": "Start using"
+    },
+    "title": "Heroui Next.js template"
+  },
+  "themeMode": {
+    "changeToDark": "Switch to dark mode",
+    "changeToLight": "Switch to light mode",
+    "changeToSystem": "Switch to automatic mode",
+    "dark": "Dark color",
+    "light": "Light color",
+    "system": "Automatic"
+  }
+}

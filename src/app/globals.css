@@ -1,0 +1,56 @@
+@import "tailwindcss";
+@plugin "../lib/hero.ts";
+@source "../../node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}";
+@custom-variant dark (&:is(.dark *));
+:root {
+  --scrollbar-bg: #f7f8fa;
+  --scrollbar-thumb-bg: #dee2e7;
+  --scrollbar-thumb-hover-bg: #d4d4d8;
+}
+
+:root[class~="dark"] {
+  --scrollbar-bg: #141828;
+  --scrollbar-thumb-bg: #565b69;
+  --scrollbar-thumb-hover-bg: #49557a;
+}
+.hidden-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.hidden-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+/* 文本选中样式 */
+::selection {
+  @apply bg-blue-500 text-white;
+}
+:root[class~="dark"] ::selection {
+  @apply bg-cyan-500 text-white;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+::-webkit-scrollbar-track {
+  width: 5px;
+  background: var(--scrollbar-bg);
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-bg);
+  background-clip: padding-box;
+  min-height: 28px;
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--scrollbar-thumb-hover-bg);
+}

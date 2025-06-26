@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "title": "قالب Heroui Next.js",
+    "description": "بر اساس Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + ساخت بین‌المللی",
+    "features": {
+      "nextjs": {
+        "title": "Next.js",
+        "description": "ساخته شده بر اساس Next.js 15 Tailwind CSS 4 HeroUI 2.8 بین‌المللی‌سازی"
+      },
+      "tailwind": {
+        "title": "سی‌اس‌اس تیل‌ویند",
+        "description": "یک کتابخانه کامپوننت رابط کاربری مدرن مبتنی بر Tailwind CSS 4"
+      },
+      "heroui": {
+        "title": "HeroUI\nروشنایی",
+        "description": "یک کتابخانه کامپوننت رابط کاربری مدرن مبتنی بر HeroUI 2.8"
+      },
+      "internationalization": {
+        "title": "بین‌المللی سازی",
+        "description": "پشتیبانی بین‌المللی آماده به کار"
+      },
+      "typescript": {
+        "title": "تایپ‌اسکریپت",
+        "description": "پشتیبانی از بررسی نوع و تکمیل خودکار TypeScript"
+      },
+      "latest": "آخرین نسخه",
+      "theme": {
+        "title": "تم",
+        "description": "پشتیبانی از حالت روشن، تاریک و خودکار، به طور خودکار با تنظیمات سیستم هماهنگ می‌شود."
+      }
+    },
+    "components": {
+      "title": "نمایش اجزا",
+      "language": {
+        "title": "مولف تغییر زبان",
+        "description": "پشتیبانی از سریع تغییر 23 زبان، شامل چینی، انگلیسی، ژاپنی، کره‌ای و غیره.",
+        "current": "زبان فعلی:"
+      },
+      "theme": {
+        "title": "مولف تغییر موضوع",
+        "description": "پشتیبانی از حالت روشن، تاریک و خودکار، به طور خودکار با تنظیمات سیستم هماهنگ می‌شود.",
+        "current": "موضوع فعلی:"
+      }
+    },
+    "gettingStarted": {
+      "title": "شروع به استفاده کنید",
+      "description": "این قالب تمامی وابستگی‌ها و تنظیمات ضروری را برای شما پیکربندی کرده است، شما می‌توانید فوراً شروع به توسعه کنید.",
+      "features": {
+        "internationalization": "پشتیبانی بین‌المللی آماده به کار",
+        "theme": "حمایت از حالت تاریک",
+        "responsive": "طراحی واکنش‌پذیر",
+        "typescript": "پشتیبانی از تایپ‌اسکریپت",
+        "modern": "اجزای رابط کاربری مدرن"
+      }
+    },
+    "footer": {
+      "description": "ساخته شده بر اساس Next.js 15 Tailwind CSS 4 HeroUI 2.8 بین‌المللی‌سازی"
+    }
+  },
+  "themeMode": {
+    "changeToDark": "به حالت تاریک تغییر دهید",
+    "changeToLight": "به حالت روشن تغییر دهید",
+    "changeToSystem": "به حالت خودکار تغییر دهید",
+    "dark": "تیره",
+    "light": "نور",
+    "system": "خودکار"
+  }
+}

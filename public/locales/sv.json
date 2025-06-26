@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Nuvarande språk:",
+        "description": "Stöder snabbväxling mellan 23 språk, inklusive kinesiska, engelska, japanska, koreanska etc.",
+        "title": "Språkväxlingskomponent"
+      },
+      "theme": {
+        "current": "Aktuellt ämne:",
+        "description": "Stöder ljusa, mörka och automatiska temalägen och följer automatiskt systeminställningarna.",
+        "title": "Temaväxlare"
+      },
+      "title": "Komponentdemonstration"
+    },
+    "description": "Byggt på Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisering",
+    "features": {
+      "heroui": {
+        "description": "Ett modernt UI-komponentbibliotek baserat på HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Internationaliseringsstöd direkt från start",
+        "title": "Internationalisering"
+      },
+      "latest": "Senaste versionen",
+      "nextjs": {
+        "description": "Byggt på Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisering",
+        "title": "Next.js"
+      },
+      "tailwind": {
+        "description": "Ett modernt UI-komponentbibliotek baserat på Tailwind CSS 4",
+        "title": "Medvind CSS"
+      },
+      "theme": {
+        "description": "Stöder ljusa, mörka och automatiska temalägen och följer automatiskt systeminställningarna.",
+        "title": "tema"
+      },
+      "typescript": {
+        "description": "Stöder TypeScript-typkontroll och autokomplettering",
+        "title": "TypeScript"
+      }
+    },
+    "footer": {
+      "description": "Byggt på Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisering"
+    },
+    "gettingStarted": {
+      "description": "Den här mallen har alla nödvändiga beroenden och inställningar konfigurerade åt dig så att du kan börja utveckla direkt.",
+      "features": {
+        "internationalization": "Internationaliseringsstöd direkt från start",
+        "modern": "Moderna UI-komponenter",
+        "responsive": "Responsiv design",
+        "theme": "Stöd för mörkt läge",
+        "typescript": "TypeScript-stöd"
+      },
+      "title": "Kom igång"
+    },
+    "title": "Heroui Next.js-mall"
+  },
+  "themeMode": {
+    "changeToDark": "Växla till mörkt läge",
+    "changeToLight": "Växla till ljusläge",
+    "changeToSystem": "Växla till automatiskt läge",
+    "dark": "Mörk",
+    "light": "Ljus",
+    "system": "automatisk"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "title": "Heroui Next.js Vorlage",
+    "description": "Basierend auf Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + Internationalisierungsaufbau",
+    "features": {
+      "nextjs": {
+        "title": "Next.js",
+        "description": "Basierend auf Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + Internationalisierungsaufbau"
+      },
+      "tailwind": {
+        "title": "Tailwind CSS\n\nTailwind CSS",
+        "description": "Moderne UI-Komponentenbibliothek basierend auf Tailwind CSS 4."
+      },
+      "heroui": {
+        "title": "HeroUI\n\nHeroUI",
+        "description": "Basierend auf HeroUI 2.8, einer modernen UI-Komponentenbibliothek."
+      },
+      "internationalization": {
+        "title": "Internationalisierung",
+        "description": "Internationale Unterstützung direkt aus der Box"
+      },
+      "typescript": {
+        "title": "TypeScript",
+        "description": "Unterstützung für Typenprüfung und automatische Vervollständigung in TypeScript."
+      },
+      "latest": "Neueste Version",
+      "theme": {
+        "title": "Thema",
+        "description": "Unterstützt den hellen, dunklen und automatischen Themenmodus, der automatisch den Systemeinstellungen folgt."
+      }
+    },
+    "components": {
+      "title": "Komponenten-Demo",
+      "language": {
+        "title": "Sprachumschaltkomponente",
+        "description": "Unterstützt schnelles Umschalten zwischen 23 Sprachen, darunter Chinesisch, Englisch, Japanisch, Koreanisch usw.",
+        "current": "Aktuelle Sprache:"
+      },
+      "theme": {
+        "title": "Themenwechsel-Komponente",
+        "description": "Unterstützt den hellen, dunklen und automatischen Themenmodus, der automatisch den Systemeinstellungen folgt.",
+        "current": "Aktuelles Thema:"
+      }
+    },
+    "gettingStarted": {
+      "title": "Anfangen",
+      "description": "Diese Vorlage wurde bereits mit allen erforderlichen Abhängigkeiten und Einstellungen für Sie konfiguriert, sodass Sie sofort mit der Entwicklung beginnen können.",
+      "features": {
+        "internationalization": "Internationale Unterstützung direkt aus der Box",
+        "theme": "Dunkelmodus-Unterstützung",
+        "responsive": "responsives Design",
+        "typescript": "TypeScript Unterstützung",
+        "modern": "Moderne UI-Komponenten"
+      }
+    },
+    "footer": {
+      "description": "Basierend auf Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + Internationalisierungsaufbau"
+    }
+  },
+  "themeMode": {
+    "changeToDark": "Wechseln Sie in den Dunkelmodus.",
+    "changeToLight": "Wechseln Sie in den hellen Modus.",
+    "changeToSystem": "Wechseln Sie in den Automatikmodus.",
+    "dark": "dunkel",
+    "light": "helle Farbe",
+    "system": "automatisch"
+  }
+}

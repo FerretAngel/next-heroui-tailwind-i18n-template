@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Ngôn ngữ hiện tại:",
+        "description": "Hỗ trợ chuyển đổi nhanh 23 ngôn ngữ, bao gồm tiếng Trung, tiếng Anh, tiếng Nhật, tiếng Hàn, v.v.",
+        "title": "Thành phần chuyển đổi ngôn ngữ"
+      },
+      "theme": {
+        "current": "Chủ đề hiện tại:",
+        "description": "Hỗ trợ chế độ chủ đề sáng, tối và tự động, đồng thời tự động tuân theo cài đặt hệ thống.",
+        "title": "Chuyển đổi chủ đề"
+      },
+      "title": "Biểu diễn thành phần"
+    },
+    "description": "Được xây dựng trên Next.js 15 Tailwind CSS 4 HeroUI 2.8 Quốc tế hóa",
+    "features": {
+      "heroui": {
+        "description": "Thư viện thành phần UI hiện đại dựa trên HeroUI 2.8",
+        "title": "Giao diện HeroUI"
+      },
+      "internationalization": {
+        "description": "Hỗ trợ quốc tế hóa ngay lập tức",
+        "title": "Quốc tế hóa"
+      },
+      "latest": "Phiên bản mới nhất",
+      "nextjs": {
+        "description": "Được xây dựng trên Next.js 15 Tailwind CSS 4 HeroUI 2.8 Quốc tế hóa",
+        "title": "Tiếp theo.js"
+      },
+      "tailwind": {
+        "description": "Một thư viện thành phần UI hiện đại dựa trên Tailwind CSS 4",
+        "title": "CSS của Tailwind"
+      },
+      "theme": {
+        "description": "Hỗ trợ chế độ chủ đề sáng, tối và tự động, đồng thời tự động tuân theo cài đặt hệ thống.",
+        "title": "chủ đề"
+      },
+      "typescript": {
+        "description": "Hỗ trợ kiểm tra kiểu TypeScript và tự động hoàn thành",
+        "title": "Kiểu chữ"
+      }
+    },
+    "footer": {
+      "description": "Được xây dựng trên Next.js 15 Tailwind CSS 4 HeroUI 2.8 Quốc tế hóa"
+    },
+    "gettingStarted": {
+      "description": "Mẫu này có tất cả các phụ thuộc và cài đặt cần thiết được cấu hình để bạn có thể bắt đầu phát triển ngay lập tức.",
+      "features": {
+        "internationalization": "Hỗ trợ quốc tế hóa ngay lập tức",
+        "modern": "Các thành phần UI hiện đại",
+        "responsive": "Thiết kế đáp ứng",
+        "theme": "Hỗ trợ chế độ tối",
+        "typescript": "Hỗ trợ TypeScript"
+      },
+      "title": "Bắt đầu"
+    },
+    "title": "Mẫu Heroui Next.js"
+  },
+  "themeMode": {
+    "changeToDark": "Chuyển sang chế độ tối",
+    "changeToLight": "Chuyển sang chế độ sáng",
+    "changeToSystem": "Chuyển sang chế độ tự động",
+    "dark": "Tối tăm",
+    "light": "Ánh sáng",
+    "system": "tự động"
+  }
+}

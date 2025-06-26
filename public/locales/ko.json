@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "현재 언어:",
+        "description": "중국어, 영어, 일본어, 한국어 등 23개 언어의 빠른 전환을 지원합니다.",
+        "title": "언어 전환 구성 요소"
+      },
+      "theme": {
+        "current": "현재 주제:",
+        "description": "밝은 모드, 어두운 모드, 자동 테마 모드를 지원하고 시스템 설정을 자동으로 따릅니다.",
+        "title": "테마 전환기"
+      },
+      "title": "구성 요소 데모"
+    },
+    "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 국제화 기반으로 구축됨",
+    "features": {
+      "heroui": {
+        "description": "HeroUI 2.8 기반의 최신 UI 구성 요소 라이브러리",
+        "title": "히어로UI"
+      },
+      "internationalization": {
+        "description": "즉시 사용 가능한 국제화 지원",
+        "title": "국제화"
+      },
+      "latest": "최신 버전",
+      "nextjs": {
+        "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 국제화 기반으로 구축됨",
+        "title": "다음.js"
+      },
+      "tailwind": {
+        "description": "Tailwind CSS 4 기반의 최신 UI 구성 요소 라이브러리",
+        "title": "테일윈드 CSS"
+      },
+      "theme": {
+        "description": "밝은 모드, 어두운 모드, 자동 테마 모드를 지원하고 시스템 설정을 자동으로 따릅니다.",
+        "title": "주제"
+      },
+      "typescript": {
+        "description": "TypeScript 유형 검사 및 자동 완성을 지원합니다.",
+        "title": "타입스크립트"
+      }
+    },
+    "footer": {
+      "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 국제화 기반으로 구축됨"
+    },
+    "gettingStarted": {
+      "description": "이 템플릿에는 바로 개발을 시작할 수 있도록 필요한 모든 종속성과 설정이 구성되어 있습니다.",
+      "features": {
+        "internationalization": "즉시 사용 가능한 국제화 지원",
+        "modern": "최신 UI 구성 요소",
+        "responsive": "반응형 디자인",
+        "theme": "다크 모드 지원",
+        "typescript": "TypeScript 지원"
+      },
+      "title": "시작하기"
+    },
+    "title": "Heroui Next.js 템플릿"
+  },
+  "themeMode": {
+    "changeToDark": "다크 모드로 전환",
+    "changeToLight": "라이트 모드로 전환",
+    "changeToSystem": "자동 모드로 전환",
+    "dark": "어두운",
+    "light": "빛",
+    "system": "오토매틱"
+  }
+}

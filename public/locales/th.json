@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "ภาษาปัจจุบัน:",
+        "description": "รองรับการสลับอย่างรวดเร็ว 23 ภาษา รวมถึงจีน อังกฤษ ญี่ปุ่น เกาหลี เป็นต้น",
+        "title": "ส่วนประกอบการเปลี่ยนภาษา"
+      },
+      "theme": {
+        "current": "หัวข้อปัจจุบัน:",
+        "description": "รองรับโหมดธีมสว่าง มืด และอัตโนมัติ และปฏิบัติตามการตั้งค่าระบบโดยอัตโนมัติ",
+        "title": "สลับธีม"
+      },
+      "title": "การสาธิตส่วนประกอบ"
+    },
+    "description": "สร้างบน Next.js 15 Tailwind CSS 4 HeroUI 2.8 การแปลเป็นภาษาต่างประเทศ",
+    "features": {
+      "heroui": {
+        "description": "ไลบรารีส่วนประกอบ UI ที่ทันสมัยบนพื้นฐาน HeroUI 2.8",
+        "title": "ฮีโร่UI"
+      },
+      "internationalization": {
+        "description": "รองรับการรองรับสากลตั้งแต่เริ่มต้น",
+        "title": "ความเป็นสากล"
+      },
+      "latest": "เวอร์ชั่นล่าสุด",
+      "nextjs": {
+        "description": "สร้างบน Next.js 15 Tailwind CSS 4 HeroUI 2.8 การแปลเป็นภาษาต่างประเทศ",
+        "title": "ถัดไป js"
+      },
+      "tailwind": {
+        "description": "ไลบรารีส่วนประกอบ UI ที่ทันสมัยโดยใช้ Tailwind CSS 4",
+        "title": "เทลวินด์ CSS"
+      },
+      "theme": {
+        "description": "รองรับโหมดธีมสว่าง มืด และอัตโนมัติ และปฏิบัติตามการตั้งค่าระบบโดยอัตโนมัติ",
+        "title": "ธีม"
+      },
+      "typescript": {
+        "description": "รองรับการตรวจสอบประเภท TypeScript และการเติมคำอัตโนมัติ",
+        "title": "ไทป์สคริปต์"
+      }
+    },
+    "footer": {
+      "description": "สร้างบน Next.js 15 Tailwind CSS 4 HeroUI 2.8 การแปลเป็นภาษาต่างประเทศ"
+    },
+    "gettingStarted": {
+      "description": "เทมเพลตนี้มีการกำหนดค่าการอ้างอิงและการตั้งค่าที่จำเป็นทั้งหมดไว้สำหรับคุณ เพื่อให้คุณสามารถเริ่มพัฒนาได้ทันที",
+      "features": {
+        "internationalization": "รองรับการรองรับสากล",
+        "modern": "ส่วนประกอบ UI ที่ทันสมัย",
+        "responsive": "การออกแบบที่ตอบสนอง",
+        "theme": "รองรับโหมดมืด",
+        "typescript": "การรองรับ TypeScript"
+      },
+      "title": "เริ่มต้นใช้งาน"
+    },
+    "title": "เทมเพลต Heroui Next.js"
+  },
+  "themeMode": {
+    "changeToDark": "สลับไปยังโหมดมืด",
+    "changeToLight": "สลับไปที่โหมดแสง",
+    "changeToSystem": "สลับไปเป็นโหมดอัตโนมัติ",
+    "dark": "มืด",
+    "light": "แสงสว่าง",
+    "system": "อัตโนมัติ"
+  }
+}

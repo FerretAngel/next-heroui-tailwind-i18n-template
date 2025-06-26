@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "title": "Heroui Next.js 模板",
+    "description": "基於 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 國際化構建",
+    "features": {
+      "nextjs": {
+        "title": "Next.js",
+        "description": "基於 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 國際化建置"
+      },
+      "tailwind": {
+        "title": "Tailwind CSS",
+        "description": "基於 Tailwind CSS 4 的現代化 UI 組件庫"
+      },
+      "heroui": {
+        "title": "HeroUI",
+        "description": "基於 HeroUI 2.8 的現代化 UI 元件庫"
+      },
+      "internationalization": {
+        "title": "國際化",
+        "description": "即插即用的國際化支援"
+      },
+      "typescript": {
+        "title": "TypeScript",
+        "description": "支援 TypeScript 的型別檢查和自動完成"
+      },
+      "latest": "最新版本",
+      "theme": {
+        "title": "主題",
+        "description": "支援淺色、深色和自動主題模式，自動跟隨系統設定。"
+      }
+    },
+    "components": {
+      "title": "元件示範",
+      "language": {
+        "title": "語言切換元件",
+        "description": "支援 23 種語言的快速切換，包括中文、英文、日文、韓文等。",
+        "current": "當前語言："
+      },
+      "theme": {
+        "title": "主題切換元件",
+        "description": "支援淺色、深色和自動主題模式，自動跟隨系統設定。",
+        "current": "目前主題："
+      }
+    },
+    "gettingStarted": {
+      "title": "開始使用",
+      "description": "這個範本已經為您配置好了所有必要的依賴和設定，您可以立即開始開發。",
+      "features": {
+        "internationalization": "即插即用的國際化支援",
+        "theme": "深色模式支援",
+        "responsive": "響應式設計",
+        "typescript": "TypeScript 支援",
+        "modern": "現代化 UI 元件"
+      }
+    },
+    "footer": {
+      "description": "基於 Next.js 15 + Tailwind CSS 4 + HeroUI 2.8 + 國際化建置"
+    }
+  },
+  "themeMode": {
+    "changeToDark": "切換到深色模式",
+    "changeToLight": "切換到淺色模式",
+    "changeToSystem": "切換到自動模式",
+    "dark": "深色",
+    "light": "淺色",
+    "system": "自動"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Langue actuelle:",
+        "description": "Prend en charge la commutation rapide de 23 langues, dont le chinois, l'anglais, le japonais, le coréen, etc.",
+        "title": "Composant de changement de langue"
+      },
+      "theme": {
+        "current": "Sujet actuel :",
+        "description": "Prend en charge les modes de thème clair, sombre et automatique et suit automatiquement les paramètres système.",
+        "title": "Changeur de thème"
+      },
+      "title": "Démonstration des composants"
+    },
+    "description": "Construit sur Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisation",
+    "features": {
+      "heroui": {
+        "description": "Une bibliothèque de composants d'interface utilisateur moderne basée sur HeroUI 2.8",
+        "title": "HeroUI"
+      },
+      "internationalization": {
+        "description": "Prise en charge de l'internationalisation prête à l'emploi",
+        "title": "Internationalisation"
+      },
+      "latest": "Dernière version",
+      "nextjs": {
+        "description": "Construit sur Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisation",
+        "title": "Next.js"
+      },
+      "tailwind": {
+        "description": "Une bibliothèque de composants d'interface utilisateur moderne basée sur Tailwind CSS 4",
+        "title": "Vent arrière CSS"
+      },
+      "theme": {
+        "description": "Prend en charge les modes de thème clair, sombre et automatique et suit automatiquement les paramètres système.",
+        "title": "thème"
+      },
+      "typescript": {
+        "description": "Prend en charge la vérification de type TypeScript et la saisie semi-automatique",
+        "title": "Manuscrit"
+      }
+    },
+    "footer": {
+      "description": "Construit sur Next.js 15 Tailwind CSS 4 HeroUI 2.8 Internationalisation"
+    },
+    "gettingStarted": {
+      "description": "Ce modèle dispose de toutes les dépendances et paramètres nécessaires configurés pour vous afin que vous puissiez commencer à développer immédiatement.",
+      "features": {
+        "internationalization": "Prise en charge de l'internationalisation prête à l'emploi",
+        "modern": "Composants d'interface utilisateur modernes",
+        "responsive": "Conception réactive",
+        "theme": "Prise en charge du mode sombre",
+        "typescript": "Prise en charge de TypeScript"
+      },
+      "title": "Commencer"
+    },
+    "title": "Modèle Heroui Next.js"
+  },
+  "themeMode": {
+    "changeToDark": "Passer en mode sombre",
+    "changeToLight": "Passer en mode clair",
+    "changeToSystem": "Passer en mode automatique",
+    "dark": "Sombre",
+    "light": "Lumière",
+    "system": "automatique"
+  }
+}

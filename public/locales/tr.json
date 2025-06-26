@@ -1,0 +1,68 @@
+{
+  "guide": {
+    "components": {
+      "language": {
+        "current": "Mevcut Dil:",
+        "description": "Çince, İngilizce, Japonca, Korece vb. dahil 23 dil arasında hızlı geçiş desteği.",
+        "title": "Dil Değiştirme Bileşeni"
+      },
+      "theme": {
+        "current": "Güncel konu:",
+        "description": "Açık, koyu ve otomatik tema modlarını destekler ve sistem ayarlarını otomatik olarak takip eder.",
+        "title": "Tema Değiştirici"
+      },
+      "title": "Bileşen Gösterimi"
+    },
+    "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 Uluslararasılaştırma üzerine kurulu",
+    "features": {
+      "heroui": {
+        "description": "HeroUI 2.8 tabanlı modern bir kullanıcı arayüzü bileşen kütüphanesi",
+        "title": "Kahraman Kullanıcı Arayüzü"
+      },
+      "internationalization": {
+        "description": "Kutunun dışından uluslararasılaşma desteği",
+        "title": "Uluslararasılaşma"
+      },
+      "latest": "Son sürüm",
+      "nextjs": {
+        "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 Uluslararasılaştırma üzerine kurulu",
+        "title": "Sonraki.js"
+      },
+      "tailwind": {
+        "description": "Tailwind CSS 4 tabanlı modern bir kullanıcı arayüzü bileşeni kütüphanesi",
+        "title": "Tailwind CSS"
+      },
+      "theme": {
+        "description": "Açık, koyu ve otomatik tema modlarını destekler ve sistem ayarlarını otomatik olarak takip eder.",
+        "title": "tema"
+      },
+      "typescript": {
+        "description": "TypeScript tür denetimini ve otomatik tamamlamayı destekler",
+        "title": "Yazılı metin"
+      }
+    },
+    "footer": {
+      "description": "Next.js 15 Tailwind CSS 4 HeroUI 2.8 Uluslararasılaştırma üzerine kurulu"
+    },
+    "gettingStarted": {
+      "description": "Bu şablon, hemen geliştirmeye başlayabilmeniz için gerekli tüm bağımlılıkları ve ayarları sizin için yapılandırmıştır.",
+      "features": {
+        "internationalization": "Kutunun dışından uluslararasılaşma desteği",
+        "modern": "Modern UI bileşenleri",
+        "responsive": "Duyarlı tasarım",
+        "theme": "Karanlık mod desteği",
+        "typescript": "TypeScript desteği"
+      },
+      "title": "Başlayın"
+    },
+    "title": "Heroui Next.js şablonu"
+  },
+  "themeMode": {
+    "changeToDark": "Karanlık Moda Geç",
+    "changeToLight": "Açık moda geç",
+    "changeToSystem": "Otomatik moda geç",
+    "dark": "Karanlık",
+    "light": "Işık",
+    "system": "otomatik"
+  }
+}
