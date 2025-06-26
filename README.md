@@ -62,7 +62,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/FerretAngel/next-heroui-tailwind-i18n-template
 cd next-heroui-tailwind-template
 ```
 
@@ -280,7 +280,7 @@ pnpm lint
 
 如果你有任何问题或建议，请随时联系我：
 
-- 📧 Email: ferret.icu.com
+- 📧 Email: ferret.icu@qq.com
 ---
 
 ⭐ 如果这个项目对你有帮助，请给我们一个星标！
