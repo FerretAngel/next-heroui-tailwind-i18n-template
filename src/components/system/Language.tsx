@@ -9,8 +9,35 @@ import {
   DropdownMenu,
   DropdownTrigger,
 } from "@heroui/react";
-import LanguageList from "../../../public/json/languageList.json";
 import { useEffect, useMemo, useState } from "react";
+
+const LanguageList={
+  "en": "English",
+  "zh-CN": "简体中文",
+  "ru": "Русский",
+  "fa": "فارسی\u200E",
+  "vi": "Tiếng Việt",
+  "tr": "Türkçe",
+  "ar": "عربي",
+  "pt-BR": "Português",
+  "fr": "Français",
+  "es": "Español",
+  "it": "Italiano",
+  "de": "Deutsch",
+  "ko": "한국인",
+  "id": "Indonesia",
+  "pl": "Polski",
+  "nl": "Nederlands",
+  "uk": "українська",
+  "ja": "日本語",
+  "sv": "Svenska",
+  "ms": "Malaysia",
+  "th": "คนไทย",
+  "hi": "हिंदी",
+  "zh-TW": "繁體中文"
+}
+
+
 export interface LanguageProps extends ButtonProps {
   className?: string;
 }

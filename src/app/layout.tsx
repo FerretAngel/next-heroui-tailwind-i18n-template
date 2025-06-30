@@ -5,8 +5,8 @@ import { NextIntlClientProvider } from "next-intl";
 import AppProvider from "@/layout/app";
 
 export const metadata: Metadata = {
-  title: process.env.NEXT_PUBLIC_APP_NAME,
-  description: process.env.NEXT_PUBLIC_APP_DESCRIPTION,
+  title: process.env.NEXT_PUBLIC_APP_NAME || "Next HeroUI Tailwind Template",
+  description: process.env.NEXT_PUBLIC_APP_DESCRIPTION || "A modern Next.js template with HeroUI and Tailwind CSS",
 };
 
 export default async function RootLayout({
