@@ -166,7 +166,7 @@ export default function Home() {
         </div>
 
         {/* Component Demo */}
-        <div className="mb-16">
+        <div className="">
           <h2 className="text-3xl font-bold text-center mb-8 text-gray-900 dark:text-white">
             {t("components.title")}
           </h2>
@@ -202,66 +202,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-
-        {/* Getting Started */}
-        <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl p-8 text-white">
-          <h2 className="text-3xl font-bold mb-4">{t("gettingStarted.title")}</h2>
-          <p className="text-lg mb-6 opacity-90">
-            {t("gettingStarted.description")}
-          </p>
-          <div className="grid md:grid-cols-2 gap-6">
-            <div className="space-y-3">
-              <h3 className="text-xl font-semibold">{t("gettingStarted.title")}</h3>
-              <div className="space-y-2">
-                <div className="flex items-center gap-2">
-                  <Icon icon="tabler:terminal" className="h-5 w-5" />
-                  <code className="bg-black/20 px-2 py-1 rounded text-sm">
-                    pnpm dev
-                  </code>
-                </div>
-                <div className="flex items-center gap-2">
-                  <Icon icon="tabler:building" className="h-5 w-5" />
-                  <code className="bg-black/20 px-2 py-1 rounded text-sm">
-                    pnpm build
-                  </code>
-                </div>
-                <div className="flex items-center gap-2">
-                  <Icon icon="tabler:play" className="h-5 w-5" />
-                  <code className="bg-black/20 px-2 py-1 rounded text-sm">
-                    pnpm start
-                  </code>
-                </div>
-              </div>
-            </div>
-            <div className="space-y-3">
-              <h3 className="text-xl font-semibold">{t("gettingStarted.title")}</h3>
-              <ul className="space-y-2 text-sm opacity-90">
-                <li className="flex items-center gap-2">
-                  <Icon icon="tabler:check" className="h-4 w-4" />
-                  {t("gettingStarted.features.internationalization")}
-                </li>
-                <li className="flex items-center gap-2">
-                  <Icon icon="tabler:check" className="h-4 w-4" />
-                  {t("gettingStarted.features.theme")}
-                </li>
-                <li className="flex items-center gap-2">
-                  <Icon icon="tabler:check" className="h-4 w-4" />
-                  {t("gettingStarted.features.responsive")}
-                </li>
-                <li className="flex items-center gap-2">
-                  <Icon icon="tabler:check" className="h-4 w-4" />
-                  {t("gettingStarted.features.typescript")}
-                </li>
-                <li className="flex items-center gap-2">
-                  <Icon icon="tabler:check" className="h-4 w-4" />
-                  {t("gettingStarted.features.modern")}
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
       </main>
-
       {/* Footer */}
       <footer className="text-center py-8 text-gray-600 dark:text-gray-400">
         <p>

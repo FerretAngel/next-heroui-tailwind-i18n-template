@@ -243,7 +243,7 @@ export default function ThemeMode({
         
         ::view-transition-new(themeMode) {
           mix-blend-mode: normal;
-          animation: themeClipAnimation 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+          animation: themeClipAnimation 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
         }
 
         .vt-name-none {
